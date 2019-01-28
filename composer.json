@@ -1,0 +1,6 @@
+{
+    "require": {
+    "gilbitron/easycsrf": "^1.0",
+    "ext-mysqli": "*"
+    }
+}
